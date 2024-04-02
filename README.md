@@ -1,4 +1,4 @@
-# Cuphead for PS VITA (VERY EARLY VERSION)
+# Cuphead for PS VITA (APRIL FOOLS VERSION)
 
 This repo contains patches that you can use in order to get fully working files for my port.
 
