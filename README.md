@@ -4,7 +4,7 @@ This repo contains patches that you can use in order to get fully working files 
 
 **YOU NEED TO BUY THE GAME ON STEAM TO MAKE IT WORK!**
 
-NOTICE: ONLY WINDOWS VERSION IS SUPPORTED, You also need ioplus plugin installed.
+NOTICE: ONLY WINDOWS VERSION IS SUPPORTED(Which also means you should be running windows machine), You also need ioplus plugin installed.
 IF YOU OWN A DLC, RE-DOWNLOAD THE GAME WITHOUT DLC
 **OVERCLOCK IS NEEDED FOR GAME TO FUNCTION AS INTENDED(MAX CPU OC, MAX BUS OC)**
 
