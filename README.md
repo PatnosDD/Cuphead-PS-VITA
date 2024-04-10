@@ -8,6 +8,8 @@ NOTICE: ONLY WINDOWS VERSION IS SUPPORTED, You also need ioplus plugin installed
 
 Don't try to launch the game, because it will crash without the neccesary files.
 
+**OVERCLOCK IS NEEDED FOR GAME TO FUNCTION AS INTENDED(MAX CPU OC, MAX BUS OC)**
+
 **If you want to support the project, you can leave a tip on one of those websites:**
 
 Ko-Fi: https://ko-fi.com/patnosd
