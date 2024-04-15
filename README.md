@@ -9,6 +9,9 @@ IF YOU OWN A DLC, RE-DOWNLOAD THE GAME WITHOUT DLC
 **OVERCLOCK IS NEEDED FOR GAME TO FUNCTION AS INTENDED(MAX CPU OC, MAX BUS OC)**
 
 
+```IF YOU WANT TO UPDATE THE GAME, UPDATE THE GAME FILES TOO, NOT JUST VPK```
+
+
 **If you want to support the project, you can leave a tip on one of those websites:**
 
 Ko-Fi: https://ko-fi.com/patnosd
