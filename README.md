@@ -24,9 +24,7 @@ PayPal: https://paypal.me/PatnosDD
 Known Issues:
 - Some Textures will be low resolution to avoid Ram related issues
 - Possible Audio issues(clips playing at incorrect volume, or glitching)
-- Some of Animations may have missing frames in certain scenes or be displayed incorrectly
 - Some of levels have low framerate(Platforming levels, Bee Level, Genie level)
-- Plane levels may have incorrectly displayed cuphead animations(Shrinked state for example)
 
 
 
