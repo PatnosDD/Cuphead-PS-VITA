@@ -7,7 +7,13 @@ This repo contains patches that you can use in order to get fully working files 
 NOTICE: ONLY WINDOWS VERSION IS SUPPORTED(Which also means you should be running windows machine), You also need ioplus plugin installed.
 IF YOU OWN A DLC, RE-DOWNLOAD THE GAME WITHOUT DLC
 
-**OVERCLOCK IS NEEDED FOR GAME TO FUNCTION AS INTENDED(MAX CPU OC, MAX BUS OC)**
+## PS VITA Set up
+
+In order to have the best possible experience, I recommend you to use following plugins (that you should be able to find somewhere on the net) :
+- ioplus.skprx (Required)
+- NoTrpDrm.suprx (Optional | Used for Trophies)
+
+**+ Full CPU Overclock (500Mhz)**
 
 
 ```IF YOU WANT TO UPDATE THE GAME, UPDATE THE GAME FILES TOO, NOT JUST VPK```
