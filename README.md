@@ -25,7 +25,7 @@ Ko-Fi: https://ko-fi.com/patnosd
 
 Patreon: https://www.patreon.com/PatnosD
 
-PayPal: https://paypal.me/PatnosDD
+PayPal: https://paypal.me/DPatnosD
 
 Known Issues:
 - Some Textures will be low resolution to avoid Ram related issues
