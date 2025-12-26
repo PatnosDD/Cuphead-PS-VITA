@@ -1,3 +1,16 @@
+<div align="center">
+
+---
+
+### 🌯 **Wishlist my first commercial game on Steam!**
+**[Beso's Shawarma](https://store.steampowered.com/app/4186870/Besos_Shawarma/?beta=0)** — *A short, narrative-driven horror game.*
+
+[![Steam Wishlist](https://img.shields.io/badge/Wishlist%20on-Steam-black?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/4186870/Besos_Shawarma/?beta=0)
+
+---
+
+</div>
+
 # Cuphead for PS VITA
 
 This repo contains patches that you can use in order to get fully working files for my port.
